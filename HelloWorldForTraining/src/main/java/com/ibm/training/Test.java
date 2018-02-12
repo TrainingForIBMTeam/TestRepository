@@ -21,9 +21,16 @@ public class Test {
 	public void sampleMethod() {
 		System.out.println("keepitsimpol");
 	}
-
 	
 	public String samplePush() {
 		return "Feb-Ibig";
+	}
+	
+	public void sampleMethodKo(){
+		System.out.println ("New Method");
+	}
+
+	public String getString() {
+		return "LOL";
 	}
 }
