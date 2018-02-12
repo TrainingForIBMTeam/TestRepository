@@ -19,8 +19,8 @@ public class Test {
 		System.out.println("keepitsimpol");
 	}
 	
-	public void samplePush() {
-		
+	public int samplePush() {
+		return 1;
 	}
 
 }
