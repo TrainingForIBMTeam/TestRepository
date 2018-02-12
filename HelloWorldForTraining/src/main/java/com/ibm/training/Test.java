@@ -16,7 +16,7 @@ public class Test {
 	}
 	
 	public void sampleMethod() {
-		
+		System.out.println("keepitsimpol");
 	}
 
 }
