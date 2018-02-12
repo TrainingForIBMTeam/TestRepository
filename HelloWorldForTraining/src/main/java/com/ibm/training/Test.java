@@ -42,7 +42,7 @@ public class Test {
 	}
 	
 	public void sampleMethodKo(){
-		System.out.println ("Changes ko to");
+		System.out.println ("Changes ko to!!!");
 	}
 	
 	public int operations(int a, int b) {
