@@ -10,7 +10,7 @@ public class Test {
 	}
 	
 	static void printJerven () {
-		System.out.println("Jerven Here .... ");
+		System.out.println("Jerven Here .. ");
 	}
 	
 	public void sampleMethod() {
