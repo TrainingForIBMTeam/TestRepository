@@ -9,13 +9,10 @@ public class Test {
 	public static void main(String[] args) {
 		System.out.println ("Hello Github");
 		//test
-<<<<<<< HEAD
 		//pushtopush
-=======
 		//test again
 		//plqq4319 Test
 		System.out.println (writeSomething());
->>>>>>> branch 'master' of https://github.com/TrainingForIBMTeam/TestRepository.git
 	}
 	
 	public static String writeSomething() {
