@@ -22,8 +22,8 @@ public class Test {
 		System.out.println("keepitsimpol");
 	}
 	
-	public int samplePush() {
-		return 1;
+	public String samplePush() {
+		return "Feb-Ibig";
 	}
 
 }
