@@ -26,7 +26,7 @@ public class Test {
 		return "Feb-Ibig";
 	}
 	
-	public void sampleMethod(){
+	public void sampleMethodKo(){
 		System.out.println ("New Method");
 	}
 
