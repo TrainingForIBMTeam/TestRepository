@@ -12,7 +12,7 @@ public class Test {
 	}
 	
 	public static String writeSomething() {
-		return str; //change here
+		return str; //change here.
 	}
 	
 	public void sampleMethod() {
