@@ -11,6 +11,7 @@ public class Test {
 		//pushtopush
 =======
 		//test again
+		//plqq4319 Test
 		System.out.println (writeSomething());
 >>>>>>> branch 'master' of https://github.com/TrainingForIBMTeam/TestRepository.git
 	}
