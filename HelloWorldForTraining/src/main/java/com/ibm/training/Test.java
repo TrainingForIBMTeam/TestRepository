@@ -12,11 +12,18 @@ public class Test {
 	}
 	
 	public static String writeSomething() {
-		return str; //my change here.
+		return str; //my change here. 
 	}
 	
+	public void test() {
+		
+	}
 	public void sampleMethod() {
 		System.out.println("keepitsimpol");
 	}
-    //Test PlQ4319
+
+	
+	public String samplePush() {
+		return "Feb-Ibig";
+	}
 }
