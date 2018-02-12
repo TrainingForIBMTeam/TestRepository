@@ -12,6 +12,8 @@ public class Test {
 		//pushtopush
 		//test again
 		//plqq4319 Test
+		Test test = new Test();
+		test.sampleTest();
 		System.out.println (writeSomething());
 	}
 	
@@ -44,5 +46,9 @@ public class Test {
 	
 	public int operation(int a, int b) {
 		return a+b;
+	}
+	
+	public void sampleTest() {
+		System.out.println ("Hello again");
 	}
 }
