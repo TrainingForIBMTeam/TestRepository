@@ -27,6 +27,10 @@ public class Test {
 	}
 	
 	public String samplePush() {
+		System.out.println("1234");
+		System.out.println("abcde");
+		System.out.println("my branch");
+		
 		return "Feb-Ibig";
 	}
 	
