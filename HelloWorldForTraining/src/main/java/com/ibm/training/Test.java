@@ -22,7 +22,7 @@ public class Test {
 	}
 	
 	public static String writeSomething() {
-		return str; //my change here. 
+		return str;
 	}
 	
 	public void test() {
