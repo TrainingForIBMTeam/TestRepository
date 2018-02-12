@@ -5,7 +5,7 @@ public class Test {
 	public static void main(String[] args) {
 		System.out.println ("Hello Github");
 		//test
-		//test again
+		//push
 	}
 	
 	public void sampleMethod() {
