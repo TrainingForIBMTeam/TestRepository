@@ -6,6 +6,11 @@ public class Test {
 		System.out.println ("Hello Github");
 		//test
 		//test again
+		printJerven();
+	}
+	
+	static void printJerven () {
+		System.out.println("Jerven Here");
 	}
 
 }
