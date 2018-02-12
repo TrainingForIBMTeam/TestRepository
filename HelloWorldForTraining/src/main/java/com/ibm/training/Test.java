@@ -7,5 +7,9 @@ public class Test {
 		//test
 		//test again
 	}
+	
+	public void sampleMethod() {
+		
+	}
 
 }
