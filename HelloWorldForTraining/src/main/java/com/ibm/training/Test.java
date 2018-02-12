@@ -15,6 +15,9 @@ public class Test {
 		return str; //my change here. 
 	}
 	
+	public void test() {
+		
+	}
 	public void sampleMethod() {
 		System.out.println("keepitsimpol");
 	}
