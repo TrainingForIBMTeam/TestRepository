@@ -18,4 +18,8 @@ public class Test {
 	public int operationMultiply(int a, int b) {
 		return a*b;
 	}
+	
+	public void newfunct() {
+		System.out.println("try ko lang magpush");
+	}
 }
