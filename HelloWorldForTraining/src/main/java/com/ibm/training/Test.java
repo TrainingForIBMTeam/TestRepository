@@ -6,6 +6,8 @@ public class Test {
 	
 	private static final String var = "lil_thugz";
 	
+	private static final String change = "sampleChange";
+	
 	public static void main(String[] args) {
 		System.out.println ("Hello Github");
 		//test
@@ -13,6 +15,9 @@ public class Test {
 		//test again
 		//plqq4319 Test
 		//Changes On my Branch 
+    
+		Test test = new Test();
+		test.sampleTest();
 		System.out.println (writeSomething());
 	}
 	
@@ -45,5 +50,9 @@ public class Test {
 	
 	public int operation(int a, int b) {
 		return a+b;
+	}
+	
+	public void sampleTest() {
+		System.out.println ("Hello again");
 	}
 }
