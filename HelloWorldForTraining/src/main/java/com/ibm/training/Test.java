@@ -31,6 +31,7 @@ public class Test {
 	public void sampleMethod() {
 		System.out.println("keepitsimpol");
 		System.out.println("permission to merge with master");
+		System.out.println("hello Wolrd");
 	}
 	
 	public String samplePush() {
