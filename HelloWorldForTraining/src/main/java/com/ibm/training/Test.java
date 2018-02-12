@@ -11,5 +11,9 @@ public class Test {
 	public void sampleMethod() {
 		
 	}
+	
+	public int operations(int a, int b) {
+		return a+b;
+	}
 
 }
