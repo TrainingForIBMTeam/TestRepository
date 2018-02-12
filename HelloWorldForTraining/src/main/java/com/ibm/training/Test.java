@@ -11,5 +11,9 @@ public class Test {
 	public void sampleMethod() {
 		
 	}
+	
+	public void samplePush() {
+		
+	}
 
 }
