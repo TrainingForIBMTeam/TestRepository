@@ -45,4 +45,8 @@ public class Test {
 	public int operation(int a, int b) {
 		return a+b;
 	}
+	
+	private void display(String s) {
+		System.out.println(s);
+	}
 }
