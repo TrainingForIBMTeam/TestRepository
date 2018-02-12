@@ -4,6 +4,8 @@ public class Test {
 
 	public static String str = "This is a string..";
 	
+	private static final String var = "lil_thugz";
+	
 	public static void main(String[] args) {
 		System.out.println ("Hello Github");
 		//test
