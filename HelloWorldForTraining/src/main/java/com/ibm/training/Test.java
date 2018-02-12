@@ -45,4 +45,9 @@ public class Test {
 	public int operation(int a, int b) {
 		return a+b;
 	}
+	
+	public String myString()
+	{
+		return "myString";
+	}
 }
