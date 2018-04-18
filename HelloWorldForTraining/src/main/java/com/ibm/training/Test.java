@@ -6,7 +6,7 @@ public class Test {
 	
 //	private static final String var = "lil_thugz";
 	
-	private static final String change = "sampleChange";
+	private static final String changing = "sampleChange";
 	
 	public static void main(String[] args) {
 		System.out.println ("Hello Github");
