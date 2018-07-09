@@ -65,7 +65,7 @@ public class Test {
 	public String myString()
 	{
 		return "myString";
-  }
+  	}
   
 	public void sampleTest() {
 		System.out.println ("Hello again");
